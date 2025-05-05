@@ -14,7 +14,8 @@ function App() {
         </nav>
       </aside>
       <main className="flex-1 p-6">
-        <h2 className="text-2xl font-semibold">Bem-vindo ao Cosmus Trader</h2>
+      <h2 className="text-2xl font-semibold">Bem-vindo ao Cosmus Trader 🚀</h2> // Versão publicada para print histórico
+
         <p className="mt-4">Clique em uma das opções do menu para iniciar a análise.</p>
       </main>
     </div>
